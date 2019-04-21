@@ -1,0 +1,19 @@
+---
+title: "GP’s publication"
+author: "Gayoung Park"
+date: "4/21/2019"
+output:
+  pdf_document: default
+  html_document: default
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I do not think Prey Choice model is good for my project based on this guy [@bretzke_evaluating_2012]..
+
+## R Markdown
+
+
