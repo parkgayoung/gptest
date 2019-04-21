@@ -1,7 +1,7 @@
 Package: gptest
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
     person(given = "First",
            family = "Last",
            role = c("aut", "cre"),
@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/parkgayoung/gptest
 BugReports: https://github.com/parkgayoung/gptest/issues
+Imports: bookdown
